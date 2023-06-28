@@ -1,0 +1,6 @@
+.config
+node_modules
+/target
+Cargo.lock
+.vscode
+nohup.out
